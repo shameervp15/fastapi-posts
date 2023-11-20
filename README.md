@@ -1,0 +1,1 @@
+Alembic - used for migrations after alteration inside tables
